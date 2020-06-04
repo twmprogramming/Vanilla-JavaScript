@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "source": "image-1.jpg",
+    "alt": "Image One",
+    "color": "red"
+  },
+  {
+    "id": 2,
+    "source": "image-2.jpg",
+    "alt": "Image One",
+    "color": "blue"
+  },
+  {
+    "id": 3,
+    "source": "image-3.jpg",
+    "alt": "Image One",
+    "color": "green"
+  },
+  {
+    "id": 4,
+    "source": "image-4.jpg",
+    "alt": "Image One",
+    "color": "yellow"
+  }
+]
